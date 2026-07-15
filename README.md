@@ -37,12 +37,18 @@ I enjoy **turning complex problems into elegant solutions** and I’m constantly
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazeJsDev&show_icons=true&theme=tokyonight&hide_border=true" alt="BlazeJsDev's GitHub Stats" height="192px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeJsDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="192px" />
+  <a href="https://github.com/BlazeJsDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=BlazeJsDev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="BlazeJsDev's GitHub Stats" />
+  </a>
+  <a href="https://github.com/BlazeJsDev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeJsDev&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeJsDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/BlazeJsDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeJsDev&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Langs" />
+  </a>
 </p>
 
 ---
