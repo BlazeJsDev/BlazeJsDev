@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20👋,%20I'm%20Femi-Adeboye%20Demilorun&fontSize=40&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -37,12 +37,12 @@ I enjoy **turning complex problems into elegant solutions** and I’m constantly
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazeJsDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=0e75b6&title_color=ffffff&text_color=a9b2c3" alt="BlazeJsDev's GitHub Stats" height="192px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeJsDev&theme=tokyonight&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazeJsDev&show_icons=true&theme=tokyonight&hide_border=true" alt="BlazeJsDev's GitHub Stats" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeJsDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="192px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeJsDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a9b2c3" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeJsDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
