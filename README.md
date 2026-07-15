@@ -34,21 +34,14 @@ I enjoy **turning complex problems into elegant solutions** and I’m constantly
 
 ---
 
-### 📊 GitHub Stats  
+### 🐍 Contribution Activity  
 
 <p align="center">
-  <a href="https://github.com/BlazeJsDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=BlazeJsDev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="BlazeJsDev's GitHub Stats" />
-  </a>
-  <a href="https://github.com/BlazeJsDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeJsDev&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BlazeJsDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeJsDev&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Langs" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlazeJsDev/Demilorun/output/dist/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlazeJsDev/Demilorun/output/dist/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BlazeJsDev/Demilorun/output/dist/github-contribution-grid-snake.svg?v=1">
+  </picture>
 </p>
 
 ---
